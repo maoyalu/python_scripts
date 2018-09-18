@@ -1,3 +1,7 @@
 # My Python Scripts
 
-Here I sort out some scripts that I have written so far for the purposes of quick referencing and future improving. As I am new to programming, the code might be immature. But I would keep refining and maintaining them. Thanks for reading!
+Some scripts I wrote while I'm learning Python.
+
+Even though most of them are silly and useless, but hopefully someday when I look back, I can be surprised how far I've gone.
+
+18/09/2018
