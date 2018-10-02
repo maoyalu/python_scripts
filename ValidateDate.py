@@ -33,3 +33,4 @@ def validate_date_re(date_str):
         return 0 <= int(date[0]) <= last_day and 1 <= int(date[1]) <= 12
     else:
         return False
+
